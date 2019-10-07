@@ -1,0 +1,14 @@
+#ID
+#name str
+#level int
+#health int
+#attack int
+#weapon str
+
+#Basic warrior
+Warrior001
+name 			Goblin
+level			0
+health			100
+attack			10
+weapon			Weapon001

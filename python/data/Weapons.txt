@@ -1,0 +1,30 @@
+#ID
+#name str
+#level int
+#attack_modifier float
+#possible_positions int
+#possible_targets int
+
+#this is the starting knife
+Weapon001
+name			Small knife
+level 			0
+attack_modifier		0.5
+possible_positions	15
+possible_targets	15
+
+#bigger knife but still basic
+Weapon002
+name			Big knife
+level			1
+attack_modifier		0.6
+possible_positions	15
+possible_targets	15
+
+#even bigger knife but still basic
+Weapon003
+name			Very big knife
+level			2
+attack_modifier		0.7
+possible_positions	15
+possible_targets	15

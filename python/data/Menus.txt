@@ -1,0 +1,15 @@
+#ID
+#name str
+#buttons str
+
+mainmenu
+name 			main_menu
+buttons			play options info
+
+options
+name			options
+buttons			optiona changefont backmain
+
+changefont
+name			changefont
+buttons			a b c

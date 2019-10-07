@@ -1,0 +1,15 @@
+#ID
+#name str
+#level int
+#reward int
+#difficulty int
+#length int
+
+#Starting Mission
+Mission001
+name 			Starting quest
+level			0
+reward			10
+difficulty		0
+length			1
+

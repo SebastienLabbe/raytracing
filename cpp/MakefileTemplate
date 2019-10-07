@@ -1,0 +1,13 @@
+all: main
+
+main: main.cpp Header.h CLASSES__
+	g++ -O3 -o program main.cpp CLASSES_O -lSDL -pthread
+
+clean:
+	rm program *.o
+
+run: main
+	./program
+
+#CLASSES = Point Line Plane Object Chunk World Colision Player Polygone Sphere KeyPoint WorldCreation RayTracing
+

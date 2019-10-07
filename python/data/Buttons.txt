@@ -1,0 +1,77 @@
+#ID
+#text str
+#action str
+#fcolor str
+#bcolor str
+
+play
+text			play
+action			play
+fcolor			red
+bcolor			green
+
+info
+text			info
+action			nothing
+fcolor			yellow
+bcolor			white
+
+options
+text			options
+action			load menu options
+fcolor			green
+bcolor			blue
+
+optiona
+text			optiona
+action			nothing
+fcolor			yellow
+bcolor			red
+
+optionb
+text			optionb
+action			nothing
+fcolor			yellow
+bcolor			red
+
+backmain
+text			mainmenu
+action			load menu mainmenu
+fcolor			green
+bcolor 			yellow
+
+changefont
+text			font
+action			load menu changefont
+fcolor			yellow
+bcolor			green
+
+a
+text			a
+action			change font 1
+fcolor			black
+bcolor			yellow
+
+b
+text			b
+action			change font 2
+fcolor			black
+bcolor			yellow
+
+c
+text			c
+action			change font 3
+fcolor			black
+bcolor			yellow
+
+d
+text			d
+action			change font 4
+fcolor			black
+bcolor			yellow
+
+e
+text			e
+action			change font 5
+fcolor			black
+bcolor			yellow
